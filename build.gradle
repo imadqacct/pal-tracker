@@ -19,7 +19,7 @@ test {
     useJUnitPlatform()
 }
 bootRun.environment([
-        "WELCOME_MESSAGE": "hello0",
+        "WELCOME_MESSAGE": "hello",
 ])
 
 test.environment([
