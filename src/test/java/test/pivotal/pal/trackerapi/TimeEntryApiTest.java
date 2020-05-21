@@ -43,7 +43,7 @@ public class TimeEntryApiTest {
 
         TimeZone.setDefault(TimeZone.getTimeZone("UTC"));
     }
-    
+
 
     @Test
     public void testCreate() throws Exception {
